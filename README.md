@@ -84,16 +84,6 @@ Tecnologias:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Jonatanfeitosa&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1)
-
-</div>
-
----
-
 ## 🎯 Áreas de interesse
 
 - LegalTech
