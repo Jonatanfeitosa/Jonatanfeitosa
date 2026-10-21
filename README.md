@@ -4,7 +4,7 @@
 
 ### ⚖️ Direito + 💻 Tecnologia
 
-LegalTech • Automação • Inteligência Artificial • Machine Learning
+LegalTech/RegTech (tecnologia para negócios regulados) • Automação • Inteligência Artificial • Machine Learning
 
 </div>
 
