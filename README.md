@@ -4,7 +4,15 @@
 
 ### ⚖️ Direito + 💻 Tecnologia
 
-LegalTech/RegTech (tecnologia para negócios regulados) • Automação • Inteligência Artificial • Machine Learning
+Desenvolvimento de tecnologias para os setores jurídico, judicial e extrajudicial.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=LegalTech+%7C+RegTech;Java+%7C+Spring+Boot+%7C+APIs+REST;Python+%7C+Machine+Learning;Automa%C3%A7%C3%A3o+de+processos+jur%C3%ADdicos;Tecnologia+aplicada+ao+setor+extrajudicial" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jonatanvieirafeitosa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonatanfeitosa)
+![Profile Views](https://komarev.com/ghpvc/?username=Jonatanfeitosa&style=for-the-badge)
 
 </div>
 
@@ -18,38 +26,63 @@ LegalTech/RegTech (tecnologia para negócios regulados) • Automação • Inte
 
 🏢 Pós-graduado em Direito Imobiliário pela Escola Paulista de Direito (EPD).
 
-💡 Focado no desenvolvimento de tecnologias aplicadas aos setores extrajudicial e judicial.
+💡 Meu foco é unir experiência jurídica e desenvolvimento de software para criar soluções voltadas à automação de rotinas, integração de sistemas, análise de dados e Inteligência Artificial.
 
-Atualmente estudo e desenvolvo projetos com foco em automação de rotinas, análise de dados, integração de sistemas, desenvolvimento backend e aplicação de Inteligência Artificial ao universo jurídico.
+Atualmente desenvolvo e estudo aplicações envolvendo backend, APIs REST, bancos de dados, Machine Learning e tecnologias aplicadas principalmente aos setores judicial e extrajudicial.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Atualmente
+
+🔭 Desenvolvendo projetos voltados à automação e tecnologia aplicada ao Direito.
+
+⚙️ Trabalhando com Java, Spring Boot, React, TypeScript, Python e bancos de dados.
+
+🤖 Estudando aplicações de Inteligência Artificial e Machine Learning.
+
+⚖️ Explorando soluções de LegalTech e RegTech para modernização de atividades jurídicas e extrajudiciais.
+
+---
+
+## 🔥 Projetos em destaque
 
 ### ⚖️ Rastre.IA
 
-Sistema voltado ao setor jurídico, com foco no monitoramento e análise de processos judiciais, automação de rotinas e apoio à atividade extrajudicial.
+Sistema voltado ao monitoramento e análise de processos judiciais, com foco em automação de rotinas e apoio às atividades jurídicas e extrajudiciais.
 
-Tecnologias:
+**Tecnologias**
 
 `Java` `Spring Boot` `PostgreSQL` `REST API` `React` `TypeScript`
 
+[🔗 Ver projeto](https://github.com/Jonatanfeitosa/Rastre.IA)
+
+---
+
 ### 🌱 SOULUP
 
-Projeto acadêmico desenvolvido na FIAP com foco em sustentabilidade, gamificação e tecnologia.
+Projeto acadêmico desenvolvido na FIAP envolvendo sustentabilidade, gamificação, desenvolvimento de software e análise de dados.
 
-Tecnologias:
+**Tecnologias**
 
 `Java` `Python` `Machine Learning` `Banco de Dados` `Front-end`
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
-<div align="center">
+### ☕ Backend
+
+<div align="left">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+</div>
+
+### 🎨 Frontend
+
+<div align="left">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -57,11 +90,22 @@ Tecnologias:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+</div>
+
+### 🤖 Dados & Inteligência Artificial
+
+<div align="left">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### 🛠️ Ferramentas
+
+<div align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -71,7 +115,7 @@ Tecnologias:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
@@ -83,35 +127,49 @@ Tecnologias:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Jonatanfeitosa&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=Jonatanfeitosa&theme=dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 Áreas de interesse
-
-- LegalTech
-- LawTech
-- Automação de processos
-- Inteligência Artificial
-- Machine Learning
-- Desenvolvimento Backend
-- APIs REST
-- Bancos de Dados
-- Sistemas aplicados ao Judiciário
-- Sistemas aplicados à atividade extrajudicial
-- Análise e processamento de dados jurídicos
-
----
-
-## 📫 Contato
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jonatanvieirafeitosa)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonatanfeitosa&theme=github-dark&hide_border=true"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonatanfeitosa)
+</div>
+
+---
+
+## 🎯 Principais áreas de interesse
+
+- ⚖️ LegalTech e RegTech
+- 🤖 Inteligência Artificial
+- 📊 Machine Learning e análise de dados
+- ☕ Desenvolvimento Backend
+- 🔗 APIs REST e integrações
+- 🗄️ Bancos de Dados
+- ⚙️ Automação de processos
+- 🏛️ Sistemas aplicados ao Judiciário
+- 📑 Tecnologia aplicada à atividade extrajudicial
+
+---
+
+## 💡 Meu objetivo
+
+Desenvolver soluções que aproximem o Direito da tecnologia, utilizando software, automação, dados e Inteligência Artificial para tornar processos jurídicos e extrajudiciais mais eficientes, seguros e escaláveis.
+
+---
+
+## 📫 Vamos conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonatan_Vieira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jonatanvieirafeitosa)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Jonatanfeitosa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonatanfeitosa)
 
 </div>
 
@@ -119,8 +177,8 @@ Tecnologias:
 
 <div align="center">
 
-### 👀 Visualizações do perfil
+### ⚖️ + 💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jonatanfeitosa&style=for-the-badge)
+**Direito, tecnologia e inovação aplicados a problemas reais.**
 
 </div>
