@@ -115,34 +115,6 @@ Projeto acadêmico desenvolvido na FIAP envolvendo sustentabilidade, gamificaç�
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jonatanfeitosa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatanfeitosa&layout=compact&theme=dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Jonatanfeitosa&theme=dark&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonatanfeitosa&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 ## 🎯 Principais áreas de interesse
 
 - ⚖️ LegalTech e RegTech
